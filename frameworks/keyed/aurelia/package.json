@@ -63,7 +63,7 @@
     "gulp-sourcemaps": "2.6.4",
     "gulp-watch": "5.0.1",
     "html-minifier": "3.5.19",
-    "minimatch": "3.0.4",
+    "minimatch": "3.0.5",
     "through2": "2.0.3",
     "uglify-js": "3.4.6",
     "vinyl-fs": "3.0.3"
